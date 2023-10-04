@@ -28,6 +28,7 @@ The repository code is implemented based on python and does not require configur
 
 
 **Notice**
+
 1.You must rely on camera-blade distance to design the scale of the image, other methods are unreliable.
 
 2.The method of feature points is poor, but if you know the camera-blade distance and the internal and external parameters of the camera, maybe you can rely on fake feature points to initialize your affine transformation matrix in pairs.
@@ -37,4 +38,5 @@ The repository code is implemented based on python and does not require configur
 **Thanks**
 
 Cong Yang, Soochow University
+
 Xun Liu, Clobotics
